@@ -2,7 +2,7 @@
 function sum (numero){
     let resultado=0
     for(let i=0; i<=numero; i++)
-{resultado=resultado+i
+    {resultado=resultado+i
         
     }
     return resultado
