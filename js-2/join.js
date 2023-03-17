@@ -1,7 +1,7 @@
 function join (array){
     let items = ""
     for ( let i=0; i < array.length; i++){
-        items = items + array[i] + " "
+        items = items + " " + array[i]
     }
     return items
 }
